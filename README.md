@@ -7,4 +7,6 @@ This project is a Python-based vulnerability scanner that uses Nmap to scan for 
 1. Clone the repository:
    ```sh
    git clone this repo
-   cd vulnerability_scanner
+   cd Vulnurability-scanner-with-CVE
+   pip install -r requirements.txt
+   python vulnerability_scanner.py
