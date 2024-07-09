@@ -1,3 +1,6 @@
 nmap
 python-nmap
 requests
+itertools
+sys
+time

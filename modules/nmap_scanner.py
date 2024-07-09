@@ -19,3 +19,4 @@ def scan_target(target):
                 })
     print(f"Scan data collected: {scan_data}")
     return scan_data
+#

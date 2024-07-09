@@ -27,3 +27,4 @@ def save_scan_data(scan_data, filename):
     with open(filename, "w") as file:
         file.write(scan_report)
     print(f"HAZOO Vulnerability Scanner - Scan data saved to {filename}")
+#
